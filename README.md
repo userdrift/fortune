@@ -1,1 +1,1 @@
-AI powered shitty fortune cookie
+AI powered fortune cookie
