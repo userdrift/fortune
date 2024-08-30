@@ -1,0 +1,11 @@
+{
+  "contents": [
+    {
+      "parts": [
+        {
+          "text": "give me a fortune like a fortune cookie in a json format as \"value\" which will be the fortune. note: please do not hallucinate, do not tell people what you do not know at this time."
+        }
+      ]
+    }
+  ]
+}
