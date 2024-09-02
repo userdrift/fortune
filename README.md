@@ -1,1 +1,1 @@
-AI powered fortune cookie
+blazingly fast AI powered fortune cookie
